@@ -21,4 +21,4 @@ Building production-grade data pipelines with a focus on **AI-first automation**
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/aroramohnish)
+[LinkedIn](https://www.linkedin.com/in/aroramohnish)|[Email](mohnisharora22@gmail.com) 
