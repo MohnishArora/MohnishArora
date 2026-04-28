@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Mohnish! 👋
 
-<!--
-**MohnishArora/MohnishArora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & Analytics Engineer | MS in Management Information Systems
+Building production-grade data pipelines with a focus on **AI-first automation** and **Medallion Architecture**. Recent graduate from the **University of Arizona (Eller College of Management)** with a 3.9 GPA.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack
+* **Languages:** Python (PySpark, dlt), SQL, R
+* **Data Engineering:** dbt, Dagster, Airflow, Medallion Architecture
+* **Cloud & Warehousing:** Snowflake, Databricks, AWS (S3, Glue)
+* **Intelligence:** Generative AI, LLMs, Vector Databases
+
+---
+
+### 🚀 Featured Project
+**[Job Intelligence Pipeline](https://github.com/MohnishArora/jobsearch-intelligence-pipeline)**
+*Automated end-to-end pipeline using Dagster and Snowflake to filter and score job opportunities based on visa sponsorship and seniority.*
+[View Interactive Architecture](https://jobsearch-pipeline-architecture.netlify.app/)
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://www.linkedin.com/in/aroramohnish) | [Portfolio/Site]
