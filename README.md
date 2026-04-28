@@ -9,7 +9,7 @@ Building production-grade data pipelines with a focus on **AI-first automation**
 * **Languages:** Python (PySpark, dlt), SQL, R
 * **Data Engineering:** dbt, Dagster, Airflow, Medallion Architecture
 * **Cloud & Warehousing:** Snowflake, Databricks, AWS (S3, Glue)
-* **Intelligence:** Generative AI, LLMs, Vector Databases
+* **Intelligence:** Generative AI, LLMs, Vector Databases, RAG
 
 ---
 
@@ -21,4 +21,4 @@ Building production-grade data pipelines with a focus on **AI-first automation**
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/aroramohnish) | [Portfolio/Site]
+[LinkedIn](https://www.linkedin.com/in/aroramohnish)
